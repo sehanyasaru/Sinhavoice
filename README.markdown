@@ -1,3 +1,5 @@
+
+![pipe](https://github.com/user-attachments/assets/c92b399a-273c-4f67-97d3-fd17acfbc670)
 # Audio Processing Pipeline 🎵
 
 ## Overview
